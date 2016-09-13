@@ -60,6 +60,8 @@ Once you have unpacked the game files, editing textures and sound files is relat
 ### SOUND
 Converting sound files back and forth is labour-intensive, so make sure to take a look at the resources you need:
 
+* ### [NMSAE - No Man's Sky Audio Editor](http://www.nexusmods.com/nomanssky/mods/195/?) (Recommended)
+
 * http://nomanswiki.ga/Replacing_Sound_Files
 
 * http://nomansskymods.com/mods/audio-file-dump-renamed-reorganized-and-converted/
